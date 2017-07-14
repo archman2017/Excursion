@@ -1,6 +1,5 @@
 h1 {
     font-size: 50px;
-    color: red;
 }
 user agent stylesheet
 h1 {
@@ -11,6 +10,10 @@ h1 {
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
     font-weight: bold;
+}
+.cta{
+  color:  aquamarine;
+  font-size: 16px;
 }
 body {
     font-family: Verdana, sans-serif;
